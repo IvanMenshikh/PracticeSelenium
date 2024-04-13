@@ -1,0 +1,9 @@
+public class Data {
+    public String getUrl = "https://unsplash.com/";
+    public String firstName = "Ivan";
+    public String lastName = "Petrov";
+    public String emailAddress = "IvanPetrov@gmail.com";
+    public String userName = "IvanP";
+    public String password = "12345Ivan";
+    //Переменные с данными для заполнения
+}

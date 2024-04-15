@@ -6,5 +6,6 @@ public class Data {
     public String emailAddress = "IvanPetrov@gmail.com";
     public String userName = "IvanP112233";
     public String password = "12345Ivan";
-    //Переменные с данными для заполнения
+    public String negativePassword = "12345ivan";
+    public String imgAlexPereira = "C:\\Users\\Admin-PC\\IdeaProjects\\KSEDtest\\src\\imgs\\Alex_Pereira.jpg";
 }
